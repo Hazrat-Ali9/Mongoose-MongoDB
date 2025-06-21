@@ -5,7 +5,7 @@ import {
   getUserByIdFromDB,
   getUsersFromDB,
 } from "./user.service";
-
+// User controller 
 export const createUser = async (
   req: Request,
   res: Response,
