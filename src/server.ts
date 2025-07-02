@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 import app from "./app";
-
+// Server js
 const port: number = 5000;
 
 //database connection
